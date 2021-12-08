@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aljoscha
-- 👀 I’m interested in in coding, cykling, laughing, simple solutions, thanks for the template.
-- 🌱 I’m currently learning Laravel
+- 👀 I’m interested in in coding, cykling, laughing, !simple solutions!
+- 🌱 I’m currently learning Laravel.
 - 👀 With Code suddenly everything becomes possible. 
 
 <!---
